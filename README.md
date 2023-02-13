@@ -1,5 +1,5 @@
 # Deep-Learning-Tutorial
-:computer: 
+:floppy_disk: 
 Dataset
 https://drive.google.com/file/d/12bM74Z-ZJNpJpRoQ8OZmdtF11Shs9dZY/view?usp=sharing
 ## สร้าง Python Virtual Environment
