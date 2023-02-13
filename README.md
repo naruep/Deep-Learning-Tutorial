@@ -6,12 +6,12 @@
 [ดาวน์โหลด WinRAR for Windows](https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-611.exe)
 
 ## สร้าง Python Virtual Environment
-### 1. ติดตั้ง Python 3.xx https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe
+### 1. ติดตั้ง [Python 3.xx](https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe)
 ตรวจสอบเวอร์ชั่นของ Python 
 ```ruby
 python --version
 ```
-### 2. ติดตั้ง Anaconda https://repo.anaconda.com/archive/Anaconda3-2022.10-Windows-x86_64.exe
+### 2. ติดตั้ง [Anaconda](https://repo.anaconda.com/archive/Anaconda3-2022.10-Windows-x86_64.exe)
 ### 3. พิมพ์ cmd ในช่อง Search (Windows 1x) เลือก Command Prompt:
   3.1 สร้าง Directory โดยใช้คำสั่ง 
   ```ruby
