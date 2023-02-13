@@ -1,9 +1,10 @@
 # Deep-Learning-Tutorial
 :floppy_disk: 
 [Dataset](https://drive.google.com/file/d/12bM74Z-ZJNpJpRoQ8OZmdtF11Shs9dZY/view?usp=sharing)
+
 :blush:
-ดาวน์โหลด WinRAR for Windows
-https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-611.exe
+[ดาวน์โหลด WinRAR for Windows](https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-611.exe)
+
 ## สร้าง Python Virtual Environment
 ### 1. ติดตั้ง Python 3.xx https://www.python.org/ftp/python/3.10.0/python-3.10.0-amd64.exe
 ตรวจสอบเวอร์ชั่นของ Python 
